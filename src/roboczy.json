@@ -1,0 +1,524 @@
+[
+  {
+    "id": 1,
+    "date": "2024-07-25T15:25:58",
+    "date_gmt": "2024-07-25T13:25:58",
+    "guid": { "rendered": "http://localhost/roboczy1/?p=1" },
+    "modified": "2024-07-25T15:25:58",
+    "modified_gmt": "2024-07-25T13:25:58",
+    "slug": "witaj-swiecie",
+    "status": "publish",
+    "type": "post",
+    "link": "http://localhost/roboczy1/witaj-swiecie/",
+    "title": { "rendered": "Witaj, \u015bwiecie!" },
+    "content": {
+      "rendered": "\n<p>Witamy w WordPressie. To jest tw\u00f3j pierwszy wpis. Edytuj go lub usu\u0144, a nast\u0119pnie zacznij pisa\u0107!</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "Witamy w WordPressie. To jest tw\u00f3j pierwszy wpis. Edytuj go lub usu\u0144, a nast\u0119pnie zacznij pisa\u0107!",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_kadence_starter_templates_imported_post": false,
+      "_kad_post_transparent": "",
+      "_kad_post_title": "",
+      "_kad_post_layout": "",
+      "_kad_post_sidebar_id": "",
+      "_kad_post_content_style": "",
+      "_kad_post_vertical_padding": "",
+      "_kad_post_feature": "",
+      "_kad_post_feature_position": "",
+      "_kad_post_header": false,
+      "_kad_post_footer": false,
+      "footnotes": ""
+    },
+    "categories": [1],
+    "tags": [],
+    "class_list": [
+      "post-1",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-bez-kategorii"
+    ],
+    "_links": {
+      "self": [{ "href": "http://localhost/roboczy1/wp-json/wp/v2/posts/1" }],
+      "collection": [
+        { "href": "http://localhost/roboczy1/wp-json/wp/v2/posts" }
+      ],
+      "about": [
+        { "href": "http://localhost/roboczy1/wp-json/wp/v2/types/post" }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/comments?post=1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/posts/1/revisions"
+        }
+      ],
+      "wp:attachment": [
+        { "href": "http://localhost/roboczy1/wp-json/wp/v2/media?parent=1" }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/categories?post=1"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/tags?post=1"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "date": "2019-11-25T20:05:38",
+    "date_gmt": "2019-11-25T20:05:38",
+    "guid": { "rendered": "https://demos.kadencewp.com/blocks-agency/?p=32" },
+    "modified": "2019-11-25T20:05:38",
+    "modified_gmt": "2019-11-25T20:05:38",
+    "slug": "cause-and-effect-the-case-for-cause-marketing",
+    "status": "publish",
+    "type": "post",
+    "link": "http://localhost/roboczy1/cause-and-effect-the-case-for-cause-marketing/",
+    "title": { "rendered": "Cause and effect: The case for cause marketing" },
+    "content": {
+      "rendered": "\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus sapien odio, sed porttitor mauris pretium eu. Suspendisse ornare tincidunt diam, ornare auctor nibh varius ac. Ut vehicula neque nec mauris malesuada porttitor. Curabitur at sem lectus. Ut maximus est vitae risus facilisis facilisis. Aenean quis commodo dolor. Morbi feugiat sollicitudin nisi, ac commodo nibh. Duis scelerisque urna ut dictum tincidunt. Aliquam dapibus orci et ante venenatis, nec tristique mauris tincidunt. Quisque eget ante non turpis tristique mattis eget ut nibh. Phasellus metus dui, lacinia ut consectetur ac, rhoncus ac mi. Nunc finibus interdum ligula eget volutpat. Etiam dignissim magna sit amet maximus vehicula.</p>\n\n\n\n<p>Pellentesque metus lectus, bibendum ac finibus eget, euismod ut libero. Maecenas bibendum lorem ac orci vulputate, et mollis arcu luctus. Nam quis elementum dui, ac suscipit lectus. Donec eget urna dolor. Integer vehicula tellus in elit fringilla, vitae luctus risus dapibus. Integer eget rhoncus urna. Cras rutrum hendrerit urna, et gravida sapien viverra in. Ut sed molestie augue. Nunc sed fermentum eros, ac pellentesque nibh. Mauris tincidunt, quam vel rhoncus fermentum, lorem ante feugiat dolor, eget ullamcorper lacus tortor at nisi. Ut tristique lorem id neque aliquam porttitor.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus sapien odio, sed porttitor mauris pretium eu. Suspendisse ornare tincidunt diam, ornare auctor nibh varius ac. Ut vehicula neque nec mauris malesuada porttitor. Curabitur at sem lectus. Ut maximus est vitae risus facilisis facilisis. Aenean quis commodo dolor. Morbi feugiat sollicitudin nisi, ac commodo nibh&#8230;.",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 26,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_kadence_starter_templates_imported_post": true,
+      "_kad_post_transparent": "",
+      "_kad_post_title": "",
+      "_kad_post_layout": "",
+      "_kad_post_sidebar_id": "",
+      "_kad_post_content_style": "",
+      "_kad_post_vertical_padding": "",
+      "_kad_post_feature": "",
+      "_kad_post_feature_position": "",
+      "_kad_post_header": false,
+      "_kad_post_footer": false,
+      "footnotes": ""
+    },
+    "categories": [3, 4],
+    "tags": [],
+    "class_list": [
+      "post-32",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-design",
+      "category-marketing"
+    ],
+    "_links": {
+      "self": [{ "href": "http://localhost/roboczy1/wp-json/wp/v2/posts/32" }],
+      "collection": [
+        { "href": "http://localhost/roboczy1/wp-json/wp/v2/posts" }
+      ],
+      "about": [
+        { "href": "http://localhost/roboczy1/wp-json/wp/v2/types/post" }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/comments?post=32"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/posts/32/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/media/26"
+        }
+      ],
+      "wp:attachment": [
+        { "href": "http://localhost/roboczy1/wp-json/wp/v2/media?parent=32" }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/categories?post=32"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/tags?post=32"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "date": "2019-11-25T20:05:02",
+    "date_gmt": "2019-11-25T20:05:02",
+    "guid": { "rendered": "https://demos.kadencewp.com/blocks-agency/?p=30" },
+    "modified": "2019-11-25T20:05:02",
+    "modified_gmt": "2019-11-25T20:05:02",
+    "slug": "5-common-myths-about-graphic-design",
+    "status": "publish",
+    "type": "post",
+    "link": "http://localhost/roboczy1/5-common-myths-about-graphic-design/",
+    "title": { "rendered": "5 common myths about graphic design" },
+    "content": {
+      "rendered": "\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus sapien odio, sed porttitor mauris pretium eu. Suspendisse ornare tincidunt diam, ornare auctor nibh varius ac. Ut vehicula neque nec mauris malesuada porttitor. Curabitur at sem lectus. Ut maximus est vitae risus facilisis facilisis. Aenean quis commodo dolor. Morbi feugiat sollicitudin nisi, ac commodo nibh. Duis scelerisque urna ut dictum tincidunt. Aliquam dapibus orci et ante venenatis, nec tristique mauris tincidunt. Quisque eget ante non turpis tristique mattis eget ut nibh. Phasellus metus dui, lacinia ut consectetur ac, rhoncus ac mi. Nunc finibus interdum ligula eget volutpat. Etiam dignissim magna sit amet maximus vehicula.</p>\n\n\n\n<p>Pellentesque metus lectus, bibendum ac finibus eget, euismod ut libero. Maecenas bibendum lorem ac orci vulputate, et mollis arcu luctus. Nam quis elementum dui, ac suscipit lectus. Donec eget urna dolor. Integer vehicula tellus in elit fringilla, vitae luctus risus dapibus. Integer eget rhoncus urna. Cras rutrum hendrerit urna, et gravida sapien viverra in. Ut sed molestie augue. Nunc sed fermentum eros, ac pellentesque nibh. Mauris tincidunt, quam vel rhoncus fermentum, lorem ante feugiat dolor, eget ullamcorper lacus tortor at nisi. Ut tristique lorem id neque aliquam porttitor.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus sapien odio, sed porttitor mauris pretium eu. Suspendisse ornare tincidunt diam, ornare auctor nibh varius ac. Ut vehicula neque nec mauris malesuada porttitor. Curabitur at sem lectus. Ut maximus est vitae risus facilisis facilisis. Aenean quis commodo dolor. Morbi feugiat sollicitudin nisi, ac commodo nibh&#8230;.",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 27,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_kadence_starter_templates_imported_post": true,
+      "_kad_post_transparent": "",
+      "_kad_post_title": "",
+      "_kad_post_layout": "",
+      "_kad_post_sidebar_id": "",
+      "_kad_post_content_style": "",
+      "_kad_post_vertical_padding": "",
+      "_kad_post_feature": "",
+      "_kad_post_feature_position": "",
+      "_kad_post_header": false,
+      "_kad_post_footer": false,
+      "footnotes": ""
+    },
+    "categories": [3],
+    "tags": [],
+    "class_list": [
+      "post-30",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-design"
+    ],
+    "_links": {
+      "self": [{ "href": "http://localhost/roboczy1/wp-json/wp/v2/posts/30" }],
+      "collection": [
+        { "href": "http://localhost/roboczy1/wp-json/wp/v2/posts" }
+      ],
+      "about": [
+        { "href": "http://localhost/roboczy1/wp-json/wp/v2/types/post" }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/comments?post=30"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/posts/30/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/media/27"
+        }
+      ],
+      "wp:attachment": [
+        { "href": "http://localhost/roboczy1/wp-json/wp/v2/media?parent=30" }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/categories?post=30"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/tags?post=30"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "date": "2019-11-25T20:03:34",
+    "date_gmt": "2019-11-25T20:03:34",
+    "guid": { "rendered": "https://demos.kadencewp.com/blocks-agency/?p=28" },
+    "modified": "2019-11-25T20:03:34",
+    "modified_gmt": "2019-11-25T20:03:34",
+    "slug": "4-tips-for-effectively-communicating-with-clients",
+    "status": "publish",
+    "type": "post",
+    "link": "http://localhost/roboczy1/4-tips-for-effectively-communicating-with-clients/",
+    "title": {
+      "rendered": "4 tips for effectively communicating with clients"
+    },
+    "content": {
+      "rendered": "\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus sapien odio, sed porttitor mauris pretium eu. Suspendisse ornare tincidunt diam, ornare auctor nibh varius ac. Ut vehicula neque nec mauris malesuada porttitor. Curabitur at sem lectus. Ut maximus est vitae risus facilisis facilisis. Aenean quis commodo dolor. Morbi feugiat sollicitudin nisi, ac commodo nibh. Duis scelerisque urna ut dictum tincidunt. Aliquam dapibus orci et ante venenatis, nec tristique mauris tincidunt. Quisque eget ante non turpis tristique mattis eget ut nibh. Phasellus metus dui, lacinia ut consectetur ac, rhoncus ac mi. Nunc finibus interdum ligula eget volutpat. Etiam dignissim magna sit amet maximus vehicula.</p>\n\n\n\n<p>Pellentesque metus lectus, bibendum ac finibus eget, euismod ut libero. Maecenas bibendum lorem ac orci vulputate, et mollis arcu luctus. Nam quis elementum dui, ac suscipit lectus. Donec eget urna dolor. Integer vehicula tellus in elit fringilla, vitae luctus risus dapibus. Integer eget rhoncus urna. Cras rutrum hendrerit urna, et gravida sapien viverra in. Ut sed molestie augue. Nunc sed fermentum eros, ac pellentesque nibh. Mauris tincidunt, quam vel rhoncus fermentum, lorem ante feugiat dolor, eget ullamcorper lacus tortor at nisi. Ut tristique lorem id neque aliquam porttitor.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus sapien odio, sed porttitor mauris pretium eu. Suspendisse ornare tincidunt diam, ornare auctor nibh varius ac. Ut vehicula neque nec mauris malesuada porttitor. Curabitur at sem lectus. Ut maximus est vitae risus facilisis facilisis. Aenean quis commodo dolor. Morbi feugiat sollicitudin nisi, ac commodo nibh&#8230;.",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 25,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_kadence_starter_templates_imported_post": true,
+      "_kad_post_transparent": "",
+      "_kad_post_title": "",
+      "_kad_post_layout": "",
+      "_kad_post_sidebar_id": "",
+      "_kad_post_content_style": "",
+      "_kad_post_vertical_padding": "",
+      "_kad_post_feature": "",
+      "_kad_post_feature_position": "",
+      "_kad_post_header": false,
+      "_kad_post_footer": false,
+      "footnotes": ""
+    },
+    "categories": [2, 4],
+    "tags": [],
+    "class_list": [
+      "post-28",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-clients",
+      "category-marketing"
+    ],
+    "_links": {
+      "self": [{ "href": "http://localhost/roboczy1/wp-json/wp/v2/posts/28" }],
+      "collection": [
+        { "href": "http://localhost/roboczy1/wp-json/wp/v2/posts" }
+      ],
+      "about": [
+        { "href": "http://localhost/roboczy1/wp-json/wp/v2/types/post" }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/comments?post=28"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/posts/28/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/media/25"
+        }
+      ],
+      "wp:attachment": [
+        { "href": "http://localhost/roboczy1/wp-json/wp/v2/media?parent=28" }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/categories?post=28"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/tags?post=28"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "date": "2019-11-25T19:56:25",
+    "date_gmt": "2019-11-25T19:56:25",
+    "guid": { "rendered": "https://demos.kadencewp.com/blocks-agency/?p=22" },
+    "modified": "2019-11-25T19:56:25",
+    "modified_gmt": "2019-11-25T19:56:25",
+    "slug": "user-experience-ux-design-trends-for-2018",
+    "status": "publish",
+    "type": "post",
+    "link": "http://localhost/roboczy1/user-experience-ux-design-trends-for-2018/",
+    "title": { "rendered": "User Experience (UX) Design Trends for 2020" },
+    "content": {
+      "rendered": "\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus sapien odio, sed porttitor mauris pretium eu. Suspendisse ornare tincidunt diam, ornare auctor nibh varius ac. Ut vehicula neque nec mauris malesuada porttitor. Curabitur at sem lectus. Ut maximus est vitae risus facilisis facilisis. Aenean quis commodo dolor. Morbi feugiat sollicitudin nisi, ac commodo nibh. Duis scelerisque urna ut dictum tincidunt. Aliquam dapibus orci et ante venenatis, nec tristique mauris tincidunt. Quisque eget ante non turpis tristique mattis eget ut nibh. Phasellus metus dui, lacinia ut consectetur ac, rhoncus ac mi. Nunc finibus interdum ligula eget volutpat. Etiam dignissim magna sit amet maximus vehicula.</p>\n\n\n\n<p>Pellentesque metus lectus, bibendum ac finibus eget, euismod ut libero. Maecenas bibendum lorem ac orci vulputate, et mollis arcu luctus. Nam quis elementum dui, ac suscipit lectus. Donec eget urna dolor. Integer vehicula tellus in elit fringilla, vitae luctus risus dapibus. Integer eget rhoncus urna. Cras rutrum hendrerit urna, et gravida sapien viverra in. Ut sed molestie augue. Nunc sed fermentum eros, ac pellentesque nibh. Mauris tincidunt, quam vel rhoncus fermentum, lorem ante feugiat dolor, eget ullamcorper lacus tortor at nisi. Ut tristique lorem id neque aliquam porttitor.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus sapien odio, sed porttitor mauris pretium eu. Suspendisse ornare tincidunt diam, ornare auctor nibh varius ac. Ut vehicula neque nec mauris malesuada porttitor. Curabitur at sem lectus. Ut maximus est vitae risus facilisis facilisis. Aenean quis commodo dolor. Morbi feugiat sollicitudin nisi, ac commodo nibh&#8230;.",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 24,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_kadence_starter_templates_imported_post": true,
+      "_kad_post_transparent": "",
+      "_kad_post_title": "",
+      "_kad_post_layout": "",
+      "_kad_post_sidebar_id": "",
+      "_kad_post_content_style": "",
+      "_kad_post_vertical_padding": "",
+      "_kad_post_feature": "",
+      "_kad_post_feature_position": "",
+      "_kad_post_header": false,
+      "_kad_post_footer": false,
+      "footnotes": ""
+    },
+    "categories": [3],
+    "tags": [],
+    "class_list": [
+      "post-22",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-design"
+    ],
+    "_links": {
+      "self": [{ "href": "http://localhost/roboczy1/wp-json/wp/v2/posts/22" }],
+      "collection": [
+        { "href": "http://localhost/roboczy1/wp-json/wp/v2/posts" }
+      ],
+      "about": [
+        { "href": "http://localhost/roboczy1/wp-json/wp/v2/types/post" }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/comments?post=22"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/posts/22/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/media/24"
+        }
+      ],
+      "wp:attachment": [
+        { "href": "http://localhost/roboczy1/wp-json/wp/v2/media?parent=22" }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/categories?post=22"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://localhost/roboczy1/wp-json/wp/v2/tags?post=22"
+        }
+      ],
+      "curies": [
+        { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+      ]
+    }
+  }
+]

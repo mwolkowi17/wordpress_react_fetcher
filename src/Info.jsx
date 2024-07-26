@@ -12,7 +12,15 @@ export default function Info() {
         async function getInfo() {
             await axios.get(baseURL).then((response) => {
                 setPost(response.data);
+                console.log(response.data)
             })
+                .catch(function (error) {
+                    // handle error
+                    console.log(error);
+                })
+                .finally(function () {
+                    // always executed
+                });
         }
         getInfo()
     }, [])
@@ -21,7 +29,8 @@ export default function Info() {
     return (
         <div>
             <h1>{post.id}</h1>
-            <p>{post.content.rendered}</p>
+            <p>{post.excerpt.rendered}</p>
+            <p>opublikowano: {post.date}</p>
 
         </div>
     );
